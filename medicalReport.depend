@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1644153095 source:g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<winbase.h>
+	<dos.h>
+	<conio.h>
+	"welcome.h"
+	"login.h"
+	"mainmenu.h"
+	"addrecord.h"
+	"readall.h"
+	"search.h"
+	"delete_data.h"
+	"edit_file.h"
+	"my_vehical.h"
+	"logout.h"
+
+1644143888 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\welcome.h
+	<windows.h>
+
+1644293699 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\login.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1644143927 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\mainmenu.h
+	<stdio.h>
+
+1644245065 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\addrecord.h
+	<stdio.h>
+
+1644148199 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\readall.h
+
+1643004367 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\delete.h
+	<stdio.h>
+	<stdlib.h>
+
+1644148752 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\search.h
+
+1644150959 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\delete_data.h
+	<stdlib.h>
+
+1644151085 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\edit_file.h
+	<stdlib.h>
+
+1644151807 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\my_vehical.h
+
+1644124336 g:\uni\1sem\sructured programming(cst 121-3)\new folder\medicalreport\logout.h
+
